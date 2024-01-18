@@ -6,4 +6,4 @@ print("-"*30)
 print(nome,ape, "é um nome muito bonito!!")
 t.sleep(5)
 
-print("Bom dia")
+print("Bom")
